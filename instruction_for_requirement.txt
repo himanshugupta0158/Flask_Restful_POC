@@ -1,0 +1,7 @@
+To install this in your virtualenv then go to
+>then open cmd in that folder
+>activate virtualenv 
+>put requirement.txt file in same as your virtualenv (not inside virtualenv)
+>then type this command :
+pip install -r requirement.txt 
+>this will install all given python packages in requirement.txt file
